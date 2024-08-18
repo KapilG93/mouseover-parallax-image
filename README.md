@@ -1,1 +1,1 @@
-# mouseover-parallax-image
+# Mouseover Parallax Image
